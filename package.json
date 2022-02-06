@@ -24,7 +24,7 @@
     "got": "^12.0.0",
     "ms": "^2.1.3"
   },
-  "enginers": {
+  "engines": {
     "ascii-table": "0.0.9",
     "colors": "^1.4.0",
     "node": "^12.16.1",
